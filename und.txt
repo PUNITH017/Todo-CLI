@@ -1,0 +1,14 @@
+in this commander (CLI) learning :
+
+1 => run the spit.js
+        you will get the location of file system
+
+program.command has the command to run 
+
+2 => run the index.js by proper commander
+        node index.js word_lekka a.txt
+        SOL : There are 17 words in a.txt
+
+
+        node index.js count_the_line a.txt
+        SOL : There are 3 lines in a.txt
